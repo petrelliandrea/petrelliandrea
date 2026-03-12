@@ -1,7 +1,6 @@
 ### Hi i'm Andrea :sunglasses:
 
 I'm Andrea, a Computer Science student in Turin, Italy.  
-I love Sheep :sheep: :gift_heart:
 
 
 
